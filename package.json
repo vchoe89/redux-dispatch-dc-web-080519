@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/redux-dispatch/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/redux-dispatch#readme"
+  "homepage": "https://github.com/learn-co-curriculum/redux-dispatch#readme",
+  "dependencies": {
+    "react-redux": "^7.1.1"
+  }
 }
